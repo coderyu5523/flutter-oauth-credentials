@@ -39,6 +39,7 @@ dependencies:
   dio: ^5.2.0
   flutter_riverpod: ^2.3.6
   kakao_flutter_sdk: ^1.9.2
+  flutter_naver_login: ^1.8.0
 
 dev_dependencies:
   flutter_test:

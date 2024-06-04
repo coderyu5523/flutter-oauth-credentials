@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="client_id">TSnTFkGR3hSYdhm573JH</string>
+    <string name="client_secret">fB8k3qJz46</string>
+    <string name="client_name">flutter-login</string>
+</resources>
